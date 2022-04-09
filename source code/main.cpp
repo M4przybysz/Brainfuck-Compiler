@@ -21,7 +21,7 @@ int main() {
             if(c == '[') bffile << "while(*p){\n";
             if(c == ']') bffile << "}\n";
         } while(file.eof()==false);
-        bffile << "return 0;\n}\n";
+        bffile << "getchar();\nreturn 0;\n}\n";
     }
     file.close();
     bffile.close();
