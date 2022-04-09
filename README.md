@@ -1,5 +1,5 @@
 # Brainfuck-Compiler
-Brainfuck compiler made in C++.
+Brainfuck compiler for Windows made in C++.
 
 Usage:
 1) Open Brainfuck-Compiler.exe.
